@@ -11,6 +11,7 @@ def my_each(array)
   else
       puts "No block was given!"
   end
+  array
 end   
   #my_each(list) {|i| puts #{i}}
 
