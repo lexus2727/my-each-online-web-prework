@@ -8,11 +8,11 @@ def my_each(array)
       i = i + 1
     end #end yield
      
-  else
-      puts "No block was given!"
+  #else
+     # puts "No block was given!"
   end
   array
 end   
-  #my_each(list) {|i| puts #{i}}
+  #my_each(list) {|i|  #{i}}
 
   
