@@ -12,6 +12,6 @@ def my_each(array)
       puts "No block was given!"
   end
 end   
-  my_each(list) {|i| puts #{i}}
+  #my_each(list) {|i| puts #{i}}
 
   
